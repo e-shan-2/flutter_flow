@@ -1,0 +1,332 @@
+{
+    "type": "scaffold",
+    "args": {
+        "body": {
+            "type": "stack",
+            "children": [
+                {
+                    "type": "positioned",
+                    "args": {
+                        "left": 599.2005462646484,
+                        "top": 701.5821838378906
+                    },
+                    "child": {
+                        "type": "container",
+                        "args": {
+                            "color": "ff448aff",
+                            "height": 120,
+                            "width": 120
+                        }
+                    }
+                },
+                {
+                    "type": "positioned",
+                    "args": {
+                        "left": 482.388427734375,
+                        "top": 582.1839294433594
+                    },
+                    "child": {
+                        "type": "container",
+                        "args": {
+                            "color": "ff448aff",
+                            "height": 120,
+                            "width": 120
+                        }
+                    }
+                },
+                {
+                    "type": "positioned",
+                    "args": {
+                        "left": 605.0448455810547,
+                        "top": 460.6292419433594
+                    },
+                    "child": {
+                        "type": "container",
+                        "args": {
+                            "color": "ff448aff",
+                            "height": 120,
+                            "width": 120
+                        }
+                    }
+                },
+                {
+                    "type": "positioned",
+                    "args": {
+                        "left": 362.69639587402344,
+                        "top": 460.7743835449219
+                    },
+                    "child": {
+                        "type": "container",
+                        "args": {
+                            "color": "ff448aff",
+                            "height": 120,
+                            "width": 120
+                        }
+                    }
+                },
+                {
+                    "type": "positioned",
+                    "args": {
+                        "left": 484.94822692871094,
+                        "top": 339.9837951660156
+                    },
+                    "child": {
+                        "type": "container",
+                        "args": {
+                            "color": "ff448aff",
+                            "height": 120,
+                            "width": 120
+                        }
+                    }
+                },
+                {
+                    "type": "positioned",
+                    "args": {
+                        "left": 361.1357421875,
+                        "top": 701.2073974609375
+                    },
+                    "child": {
+                        "type": "container",
+                        "args": {
+                            "color": "ff448aff",
+                            "height": 120,
+                            "width": 120
+                        }
+                    }
+                },
+                {
+                    "type": "positioned",
+                    "args": {
+                        "left": 243.2578582763672,
+                        "top": 580.2023010253906
+                    },
+                    "child": {
+                        "type": "container",
+                        "args": {
+                            "color": "ff448aff",
+                            "height": 120,
+                            "width": 120
+                        },
+                        "child": {
+                            "type": "network_image",
+                            "args": {
+                                "fit": "fitWidth",
+                                "src": "https://images.freeimages.com/images/large-previews/8ee/multicolor-drop-2-1056473.jpg"
+                            }
+                        }
+                    }
+                },
+                {
+                    "type": "positioned",
+                    "args": {
+                        "left": 126.07295227050781,
+                        "top": 698.43310546875
+                    },
+                    "child": {
+                        "type": "container",
+                        "args": {
+                            "color": "ff448aff",
+                            "height": 120,
+                            "width": 120
+                        }
+                    }
+                },
+                {
+                    "type": "positioned",
+                    "args": {
+                        "left": 2.90045166015625,
+                        "top": 573.6555786132812
+                    },
+                    "child": {
+                        "type": "container",
+                        "args": {
+                            "color": "ff448aff",
+                            "height": 120,
+                            "width": 120
+                        }
+                    }
+                },
+                {
+                    "type": "positioned",
+                    "args": {
+                        "left": 121.75840759277344,
+                        "top": 453.85504150390625
+                    },
+                    "child": {
+                        "type": "container",
+                        "args": {
+                            "color": "ff448aff",
+                            "height": 120,
+                            "width": 120
+                        }
+                    }
+                },
+                {
+                    "type": "positioned",
+                    "args": {
+                        "left": 243.4141845703125,
+                        "top": 327.22705078125
+                    },
+                    "child": {
+                        "type": "container",
+                        "args": {
+                            "color": "ff448aff",
+                            "height": 120,
+                            "width": 120
+                        }
+                    }
+                },
+                {
+                    "type": "positioned",
+                    "args": {
+                        "left": 1.62457275390625,
+                        "top": 329.51275634765625
+                    },
+                    "child": {
+                        "type": "container",
+                        "args": {
+                            "color": "ff448aff",
+                            "height": 120,
+                            "width": 120
+                        }
+                    }
+                },
+                {
+                    "type": "positioned",
+                    "args": {
+                        "left": 123.07650756835938,
+                        "top": 206.95709228515625
+                    },
+                    "child": {
+                        "type": "container",
+                        "args": {
+                            "color": "ff448aff",
+                            "height": 120,
+                            "width": 120
+                        }
+                    }
+                },
+                {
+                    "type": "positioned",
+                    "args": {
+                        "left": 366.1261749267578,
+                        "top": 203.5848846435547
+                    },
+                    "child": {
+                        "type": "container",
+                        "args": {
+                            "color": "ff448aff",
+                            "height": 120,
+                            "width": 120
+                        }
+                    }
+                },
+                {
+                    "type": "positioned",
+                    "args": {
+                        "left": 605.3022766113281,
+                        "top": 216.58663940429688
+                    },
+                    "child": {
+                        "type": "container",
+                        "args": {
+                            "color": "ff448aff",
+                            "height": 120,
+                            "width": 120
+                        }
+                    }
+                },
+                {
+                    "type": "positioned",
+                    "args": {
+                        "left": 242.63133239746094,
+                        "top": 89.51467895507812
+                    },
+                    "child": {
+                        "type": "container",
+                        "args": {
+                            "color": "ff448aff",
+                            "height": 120,
+                            "width": 120
+                        }
+                    }
+                },
+                {
+                    "type": "positioned",
+                    "args": {
+                        "left": 486.37925720214844,
+                        "top": 89.51858520507812
+                    },
+                    "child": {
+                        "type": "container",
+                        "args": {
+                            "color": "ff448aff",
+                            "height": 120,
+                            "width": 120
+                        }
+                    }
+                },
+                {
+                    "type": "positioned",
+                    "args": {
+                        "left": 4.0690765380859375,
+                        "top": 82.41464233398438
+                    },
+                    "child": {
+                        "type": "container",
+                        "args": {
+                            "color": "ff448aff",
+                            "height": 120,
+                            "width": 120
+                        }
+                    }
+                },
+                {
+                    "type": "positioned",
+                    "args": {
+                        "left": 116.93818664550781,
+                        "top": -31.331878662109375
+                    },
+                    "child": {
+                        "type": "container",
+                        "args": {
+                            "color": "ff448aff",
+                            "height": 120,
+                            "width": 120
+                        }
+                    }
+                },
+                {
+                    "type": "positioned",
+                    "args": {
+                        "left": 366.95445251464844,
+                        "top": -34.77056884765625
+                    },
+                    "child": {
+                        "type": "container",
+                        "args": {
+                            "color": "ff448aff",
+                            "height": 120,
+                            "width": 120
+                        }
+                    }
+                },
+                {
+                    "type": "positioned",
+                    "args": {
+                        "left": 609.8267211914062,
+                        "top": -28.525497436523438
+                    },
+                    "child": {
+                        "type": "container",
+                        "args": {
+                            "color": "ff448aff",
+                            "height": 120,
+                            "width": 120
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}
